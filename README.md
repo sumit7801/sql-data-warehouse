@@ -8,23 +8,24 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 ## Building Bronze layer
 
 ## 1. Analysing Source Systems
+
 ### Understand the Business Context and Ownership
-who owns the data? \
-What business process it supports?
-System and Data Documentation
+who owns the data? <br>
+What business process it supports? <br>
+System and Data Documentation <br>
 Data Model and Data Catalog
 
 ### Understand the Architecture and Technology Stack
-How is Data Stored (SQL Server, Oracle, AWS, Azure..) ?
-What are the integration capabilities (API, Kafka, File Extract, Direct DB..) ?
+How is Data Stored (SQL Server, Oracle, AWS, Azure..) ? <br>
+What are the integration capabilities (API, Kafka, File Extract, Direct DB..) ? <br>
 
 #### Understand the Extract and Load
-Incremental vs Full Load?
-Data Scope and Historical needs.
-What is the expected size of extracts?
-Are there any data volume limitations?
-How to avoid impacting the source system's performance?
-Authentication and authorization(tokens, SSH keys, VPN, IP Whitelisting..)
+Incremental vs Full Load? <br>
+Data Scope and Historical needs. <br>
+What is the expected size of extracts? <br>
+Are there any data volume limitations? <br>
+How to avoid impacting the source system's performance? <br>
+Authentication and authorization(tokens, SSH keys, VPN, IP Whitelisting..) 
 
 
 =====================================================================
