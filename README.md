@@ -3,13 +3,13 @@
 Welcome to the ***Data Warehouse and Analytics Project*** repository.
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project highlights industry best practices in data engineering and analytics.
 
-==============================================================================================================================================================
+=================================================================
 
 ## Building Bronze layer
 
 ## 1. Analysing Source Systems
 ### Understand the Business Context and Ownership
-who owns the data? \n
+who owns the data? \
 What business process it supports?
 System and Data Documentation
 Data Model and Data Catalog
@@ -27,7 +27,7 @@ How to avoid impacting the source system's performance?
 Authentication and authorization(tokens, SSH keys, VPN, IP Whitelisting..)
 
 
-================================================================================================================================================================
+=====================================================================
 
 
 
